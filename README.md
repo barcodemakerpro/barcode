@@ -1,14 +1,14 @@
 # AAMVA barcode generator for drivers license
 
 
-DL barcode maker pro v25
-update 2024
+DL barcode maker pro v26.1
+update 2024+
 
-![](https://barcodemakerpro.com/wp-content/uploads/2022/10/barcode-maker-pro-25.png)
+![](https://barcodemakerpro.com/wp-content/uploads/2024/04/barcodemakerpro-v26.jpg)
 
 AAMVA pdf417 barcode generator for US drivers license
 2D barcode generator
-ver 25.0 updated
+ver 26.1 updated
 
 1️⃣ Pdf417 Generator
 
