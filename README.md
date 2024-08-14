@@ -22,7 +22,7 @@ ver 26.1 updated
 5️⃣Canada (ON,QC,Mb,SK)
 
 For Buy and active software please contact us
-chase08112@gmail.com
+info@barcodemakerpro.com
 
 telegram:@barcodemakerpro
 
