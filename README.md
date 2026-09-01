@@ -1,14 +1,14 @@
-# AAMVA barcode generator for drivers license
+#  barcode generator for dl
 
 
-DL barcode maker pro v26.1
-update 2024+
+DL barcode maker pro v27.1
+update 
 
 ![](https://barcodemakerpro.com/wp-content/uploads/2024/04/barcodemakerpro-v26.jpg)
 
-AAMVA pdf417 barcode generator for US drivers license
+pdf417 barcode generator for US dl
 2D barcode generator
-ver 26.1 updated
+
 
 1️⃣ Pdf417 Generator
 
@@ -22,7 +22,7 @@ ver 26.1 updated
 5️⃣Canada (ON,QC,Mb,SK)
 
 For Buy and active software please contact us
-info@barcodemakerpro.com
+
 
 telegram:@barcodemakerpro
 
